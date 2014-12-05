@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs01" value="name:entID;datatype:mediumint,name:venID;datatype:mediumint,name:funID;datatype:mediumint,name:entLocal;datatype:tinytext,name:entHoraS;datatype:tinytext,name:entHoraR;datatype:tinytext,name:entData;datatype:tinytext,name:staID;datatype:mediumint,name:usuLogin;datatype:tinytext,name:entObs;datatype:tinytext" />
+	<infoitem key="UD_rs05" value="name:aceID;datatype:mediumint,name:aceData;datatype:tinytext,name:aceHora;datatype:tinytext,name:usuLogin;datatype:tinytext,name:usuIP;datatype:tinytext" />
+	<infoitem key="UD_rs03" value="name:usuID;datatype:mediumint,name:usuLogin;datatype:tinytext,name:usuSenha;datatype:tinytext,name:usuTipo;datatype:mediumint,name:usuAtivo;datatype:tinytext" />
+	<infoitem key="UD_rs02" value="name:aceID;datatype:mediumint,name:aceData;datatype:tinytext,name:aceHora;datatype:tinytext,name:usuLogin;datatype:tinytext,name:usuIP;datatype:tinytext" />
+</info>

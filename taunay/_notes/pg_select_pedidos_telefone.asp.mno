@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs01" value="name:venID;datatype:mediumint,name:usuLogin;datatype:tinytext,name:venData;datatype:tinytext,name:venHoraA;datatype:tinytext,name:tipVendaID;datatype:mediumint,name:staID;datatype:mediumint,name:cliID;datatype:mediumint,name:cliTelefone;datatype:tinytext,name:cliNome;datatype:tinytext" />
+</info>

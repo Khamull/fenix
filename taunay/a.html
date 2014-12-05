@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>Imprimir Textarea</title>
+<script language="JavaScript" type="text/javascript">
+var mt=""
+var text=""
+function Imprimir(texto) {
+    text=""
+    for(n=0; n < texto.length; ++n){
+        mt=texto.substring(n,n + 1);
+        text += mt;
+        esc = escape(mt);
+        if (esc == "%0D") { text += "<br>"}}
+    winid = window.open('','newwin','toolbar=no,status=no,width=400,height=200');
+    with (winid.document) {
+    write('<body onblur="self.close()" onLoad="window.focus();window.print()">');
+    write('<font face="arial" size="2">'+text+'<font><\/body>');
+    close();}}
+</script>
+</head>
+<body>
+<textarea name="Texto"  rows="5" cols="40">
+Teste de Escrita
+Isto é apenas um Teste
+Escreva o Seu próprio Texto.</textarea>
+<input type="button" value="Imprimir" onclick="Imprimir(Texto.value)">
+</body>
+</html>

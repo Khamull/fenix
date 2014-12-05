@@ -1,0 +1,1 @@
+<B>FORTE SYSTEM</B> <br> Usuario: <%=session("usuLogin")%> - Data: <%=CDate(Data)%><br />Copyright&copy; 2014 - Forte em Mídia Propaganda Todos os direitos reservados

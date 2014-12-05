@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs02" value="name:carID;datatype:mediumint,name:carData;datatype:timestamp,name:usuLogin;datatype:tinytext,name:carDescr;datatype:tinytext,name:carAtivo;datatype:tinytext" />
+</info>

@@ -1,0 +1,496 @@
+#frmLogin .form-group {
+	
+	float:none;
+
+}
+
+
+
+.body{
+
+	margin-top: 20px;
+	position: relative;
+	display: inline-block;
+	min-height: 300px;
+}
+
+#footer{
+
+position: fixed;
+display: inline-block;
+
+	
+	height: 70px;
+	background-repeat: no-repeat;
+	background-position: center;
+	width:100%;
+	bottom:0;
+	left:0;
+
+
+}
+
+.content-login{
+
+	padding-top: 10%;
+	padding-bottom: 10%;
+
+}
+
+.content-produto{
+
+padding-top: 5%;
+
+}
+
+#tbProdutos tr td.img{
+
+	text-align: right;
+
+}
+
+
+.with-errors {
+
+	color: #a94442;
+}
+
+.footer-sum {
+
+	width:990px;
+	position: relative;
+	display: inline-block;
+	
+	
+	background-color: #e1e1e8;
+	  table-layout: fixed;    
+	  white-space: nowrap;
+
+}
+
+ .txtQtyItens , .txtValorTotal{
+
+    	width: 50%;
+    	min-width: 40%;
+ }
+
+ .txtItens{
+  width: 10%;
+  min-width: 21%;
+ }
+
+.right{
+
+	text-align: right;
+
+}
+
+.left{
+
+	text-align: left;
+}
+
+.floatRight{
+
+	float: right;
+}
+
+.center{
+
+	text-align: center!important;
+
+}
+
+.input-small{
+
+	width: 30px;
+}
+
+#tbProdutosSelecionados tr:first-child td{
+
+	border-top: none;
+}
+.simpleCart_items table .item-teste{
+
+	display: none;
+}
+
+.deleteItem{
+
+	background-image: url(../ico/deleteItem.png);
+	width: 25px;
+	height: 25px;
+
+
+}
+
+.displayNone{
+
+	display: none;
+}
+
+#foot-sumItens{
+
+	text-align: center; 	
+	
+	
+	width: 100%;
+}
+.form-group {
+	margin-bottom: 5px;
+}
+.txtModalSelect{
+
+float: left;
+margin-right: 10px;
+font-weight:bold;
+
+}
+
+.item_name, .qtdEstoque, .item_price, .item_Quantity{
+
+	text-align: left;	
+}
+
+.collapse navbar-collapse
+
+
+#mdSelecionaProduto div div span{
+
+	display: block;
+}
+#mdSelecionaProduto{
+
+    position: absolute;
+    width: 300px !important;
+}
+
+
+#txtQtySelectProduct{
+
+	width: 50px;
+	text-align: left;
+	height: 34px;
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #555;
+	background-color: #fff;
+	background-image: none;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+	-webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+	-o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+	transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+@media screen and (min-width: 200px) {
+	
+	#mdSelecionaProduto .modal-dialog  {width:210px;}
+
+}
+
+	#mdSelecionaProduto .modal-dialog  {width:75%;}
+
+
+
+#mdSelecionaProduto{
+
+	width: 210px;
+	height: 255px;
+}
+
+#mdSelecionaProduto div.modal-body{
+	
+	margin-top: 20px;
+}
+
+.selectMesa{
+
+	float:left;
+}
+
+.vendaAberta{
+
+	
+	border:  1px solid #c6c6c6 ;
+
+}
+.vendaFechada{
+   
+   
+   border: 1px solid #c6c6c6;
+
+}
+
+.mesasAvailable p {
+
+	padding: 8px;
+	height: 50px;
+	font-size: 18px;
+	vertical-align: center;
+	color: #6E6E6E;
+
+}
+
+.mesasAvailable p label {
+
+	cursor: pointer;
+	margin: 5px;
+	color:#ffa500;
+
+}
+
+
+body { overflow-x: hidden; }
+
+
+
+.labelMesa{
+	width : 70%;
+}
+
+.dropdown-menu{
+
+	left: -361% !important;
+}
+
+#mesaOpcao{
+
+	margin : 8px;
+}
+
+#mdlistaProdutosPedidosTeste{
+
+	background-color: #F0F7ED;
+	margin-bottom: 10px;
+}
+
+.canceLDelete{
+
+	width: 60%;
+	margin-left: 20%;
+	border: 1px solid #999;
+	border: 1px solid rgba(0,0,0,.2);
+	border-radius: 6px;
+	margin-bottom: 10px
+
+}
+
+#tbSumTotal{
+
+	margin-bottom: 0px!important;
+}
+
+td.item-quantity{
+
+	cursor: pointer;
+}
+
+#mdlistaProdutosPedidos{
+
+	visibility: none;
+	border: 1px solid #c6c6c6;
+	border-top: none;
+	margin-top: -10px;
+	margin-bottom: 10px;
+
+}
+
+.headerRow, .itemRow{
+
+font-size: 12px;
+
+}
+
+.modal-body{
+
+	padding: 5px;
+}
+
+.onloading{
+
+	background-image: url(../ico/loading3.gif);
+	background-repeat: no-repeat;
+	background-size: 30px 30px;
+	background-position: center;
+}
+
+.soma-total{
+
+	float : left;
+	color: black;
+	width: 17%;
+}
+.soma-total > span{
+	float:left;
+}
+
+
+.navbar-nav li a , .navbar-brand {
+
+	
+	color : white !important;
+	
+}
+
+#menu {
+
+	background-color: #ffa500;
+	color : #FFFFFF;
+	
+}
+
+.btn-success{
+	background-color: white!important;
+	color:#ffa500!important;;
+	border: 1px solid #ffa500!important;
+}
+
+.btn-success:hover, .btn-success:focus{
+	background-color: #FAD591!important ;
+	cursor: pointer;
+}
+ .navbar-nav li:hover, .navbar-toggle:hover, .navbar-toggle:focus{
+	background-color: #DE9207!important ;
+	cursor: pointer;
+}
+
+.btn-primary{
+	
+	background-color: #ffa500!important;
+	border: 1px solid #ffa500!important;
+
+	
+}
+.icon-bar {
+	background-color: white!important;
+}
+
+.navbar-nav li.active > a{
+
+	background-color: #DE9207!important;
+}
+
+@media (min-width: 1000px){
+
+	#header{
+	   position: relative;
+	   background-image: url(../img/img_lay_topo4.png);
+	   height: 100px;
+	   background-repeat: no-repeat;
+	   background-position: center;
+	}
+
+}
+
+@media ( max-width: 1000px){
+
+	#header{
+	   position: relative;
+	   background-image: url(../img/img_lay_topo4_medio.png);
+	   height: 100px;
+	   background-repeat: no-repeat;
+	   background-position: center;
+	}
+
+}
+
+@media ( max-width: 800px){
+
+	#header{
+	   position: relative;
+	   background-image: url(../img/img_lay_topo4_medio_min.png);
+	   height: 100px;
+	   background-repeat: no-repeat;
+	   background-position: center;
+	}
+
+}
+
+@media ( max-width: 690px){
+
+	#header{
+	   position: relative;
+	   background-image: url(../img/img_lay_topo4_min_medio.png);
+	   height: 100px;
+	   background-repeat: no-repeat;
+	   background-position: center;
+	}
+
+}
+
+
+
+@media ( max-width: 625px){
+
+	#header{
+	   position: relative;
+	   background-image: url(../img/img_lay_topo4_min_max.png);
+	   height: 100px;
+	   background-repeat: no-repeat;
+	   background-position: center;
+	}
+
+}
+
+
+@media ( max-width: 550px){
+
+	#header{
+	   position: relative;
+	   background-image: url(../img/img_lay_topo4_min_m.png);
+	   height: 100px;
+	   background-repeat: no-repeat;
+	   background-position: center;
+	}
+
+}
+
+@media ( max-width: 490px){
+
+	#header{
+	   position: relative;
+	   background-image: url(../img/img_lay_topo4_min_small.png);
+	   height: 100px;
+	   background-repeat: no-repeat;
+	   background-position: center;
+	}
+
+}
+
+
+@media (max-width: 400px){
+
+	#header{
+	   position: relative;
+	   background-image: url(../img/img_lay_topo4.png);
+	   height: 100px;
+	   background-repeat: no-repeat;
+	   background-position: center;
+	}
+
+	#confirmaMesa{
+
+	margin-left: 0%!important; 
+	}
+	
+	#mdSelecionaProduto{
+		margin-left: 5%;
+
+	}
+
+
+
+}
+
+#mesaNumber{
+
+	text-align: right;
+color: red;
+font-style: italic;
+margin-right: 20px;
+
+}

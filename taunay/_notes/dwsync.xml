@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="default.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129754099409849500" remote="129754099400000000" />
+<file name="pg_menu.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753438622169500" remote="129753438620000000" />
+<file name="pg_insert_cliente.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753738257456000" remote="129753738250000000" />
+<file name="pg_insert_bairro.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753810374848500" remote="129753810370000000" />
+<file name="pg_insert_cidade.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129747670088210000" remote="129747670080000000" />
+<file name="pg_select_cidade.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753603144668500" remote="129753603140000000" />
+<file name="pg_insert_cargo.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129749917107728000" remote="129749917100000000" />
+<file name="pg_insert_fornecedor.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753653468003500" remote="129753653460000000" />
+<file name="pg_insert_funcionario.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129749952416098000" remote="129749952410000000" />
+<file name="pg_insert_mesa.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129749957481438000" remote="129749957480000000" />
+<file name="pg_insert_tipoProduto.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129749964269018000" remote="129749964260000000" />
+<file name="pg_insert_produto.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129750765072750000" remote="129750765070000000" />
+<file name="pg_insert_compra.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129750885842930000" remote="129750885840000000" />
+<file name="pg_insert_itemCompra.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129751754051303500" remote="129751754050000000" />
+<file name="pg_menu_pedidos.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753742885178500" remote="129753742880000000" />
+<file name="pg_insert_venda.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753863060978500" remote="129753863060000000" />
+<file name="pg_insert_itemVendaTelefone.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129754146890447000" remote="129754146890000000" />
+<file name="pg_select_pedidos_mesa.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753436264382000" remote="129753436260000000" />
+<file name="pg_select_bairro.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753857543433500" remote="129753857540000000" />
+<file name="pg_update_bairro.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753545478338500" remote="129753545470000000" />
+<file name="TESTE.ASP" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753554220981000" remote="129753554220000000" />
+<file name="First.gif" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753581334688500" remote="129753581330000000" />
+<file name="Previous.gif" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753581334801000" remote="129753581330000000" />
+<file name="Next.gif" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753581334751000" remote="129753581330000000" />
+<file name="Last.gif" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753581334851000" remote="129753581330000000" />
+<file name="pg_update_cidade.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753600186343500" remote="129753600180000000" />
+<file name="pg_select_funcionario.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753608773668500" remote="129753608770000000" />
+<file name="pg_select_cargo.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753634395508500" remote="129753634390000000" />
+<file name="pg_update_mesa.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753643372173500" remote="129753643370000000" />
+<file name="pg_select_fornecedor.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753651362026000" remote="129753651360000000" />
+<file name="pg_select_produto.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753669821636000" remote="129753669820000000" />
+<file name="pg_update_produto.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753712331378500" remote="129753712330000000" />
+<file name="pg_select_tipoProduto.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753720722431000" remote="129753720720000000" />
+<file name="pg_update_tipoProduto.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753723925856000" remote="129753723920000000" />
+<file name="pg_update_cliente.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753771734408500" remote="129753771730000000" />
+<file name="pg_select_pedidos_telefone.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753837028326000" remote="129753837020000000" />
+<file name="pg_select_pedidos_internet.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753851577358500" remote="129753851570000000" />
+<file name="pg_select_pedidos_balcao.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753857542671000" remote="129753857540000000" />
+<file name="pg_insert_itemVendaBalcao.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753868044441000" remote="129753868040000000" />
+<file name="pg_select_entrega.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129753907522632000" remote="129753907520000000" />
+<file name="pg_print_pedido.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129754351598269500" remote="129754351590000000" />
+<file name="pg_update_fechar_pedido_telefone.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129754352477932000" remote="129754352470000000" />
+<file name="pg_select_pedidos.asp" server="C:/inetpub/wwwroot/asp/pizzaria/" local="129754132595984500" remote="129754132590000000" />
+</dwsync>

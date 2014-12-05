@@ -1,0 +1,9 @@
+<%
+'LOGOUT
+Dim op
+op = Request.QueryString("op")
+if (op = 1) Then
+Session.Abandon()
+Response.redirect("default.asp")
+end if
+%>

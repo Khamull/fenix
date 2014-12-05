@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs01" value="name:baiID;datatype:mediumint,name:baiNome;datatype:tinytext,name:baiFrete;datatype:float,name:baiAtivo;datatype:tinytext,name:cidID;datatype:mediumint" />
+</info>

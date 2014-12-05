@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:venID;datatype:mediumint,name:venData;datatype:tinytext,name:venHoraA;datatype:tinytext,name:venHoraF;datatype:tinytext,name:usuLogin;datatype:tinytext,name:tipVendaID;datatype:mediumint,name:cliID;datatype:mediumint,name:mesID;datatype:mediumint,name:venValorD;datatype:float,name:venValorS;datatype:float,name:venValorA;datatype:float,name:venValorE;datatype:float,name:venValorP;datatype:float,name:venValorT;datatype:float,name:staID;datatype:mediumint,name:venLocalidade;datatype:tinytext,name:venObs;datatype:tinytext,name:venValorF;datatype:float,name:forPgtoID;datatype:mediumint,name:venValorR;datatype:float,name:venValorTc;datatype:float" />
+</info>

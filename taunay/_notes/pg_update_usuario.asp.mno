@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs00" value="name:usuID;datatype:mediumint,name:usuLogin;datatype:tinytext,name:usuSenha;datatype:tinytext,name:usuTipo;datatype:mediumint,name:usuAtivo;datatype:tinytext" />
+</info>

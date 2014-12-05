@@ -1,0 +1,19 @@
+<%
+
+Dim string
+Dim conn
+
+string = "Driver={mySQL ODBC 5.1 Driver}; server=mysql.fortesystem.com.br; pwd=100atau;database=fortesystem18; uid=fortesystem18"
+
+sub abreConexao
+set conn = Server.CreateObject("ADODB.Connection")
+conn.Open string
+end sub
+
+
+sub fechaConexao
+conn.Close
+set conn = Nothing
+end sub
+
+%>
